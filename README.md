@@ -1,4 +1,4 @@
-# Rectangular-slot-antenna
+# Pyramidal Horn antenna
 ###### A pyramidal horn antenna is a directional antenna commonly used at microwave frequencies. It was designed and simulated in CST, and the results were obtained.
 ---
 ## Here is the references...
