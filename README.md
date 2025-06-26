@@ -5,18 +5,18 @@
 
 DESIGN :-
 
-<img src=https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/1.png> 
-<img src=https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/2.png> 
-<img src=https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/3.png> 
+<img src=https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/1.png> 
+<img src=https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/2.png> 
+<img src=https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/3.png> 
 
 OUTPUT :-
 
-![S11](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/4.png)
-![farfield](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/8.png)
-![farfield](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/9.png)
-![e-field](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/5.png)
-![h-field](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/6.png)
-![surface-current](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/7.png)
+![S11](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/4.png)
+![farfield](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/8.png)
+![farfield](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/9.png)
+![e-field](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/5.png)
+![h-field](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/6.png)
+![surface-current](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/7.png)
 
 Working :- 
 
